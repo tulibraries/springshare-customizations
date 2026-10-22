@@ -1,0 +1,30 @@
+Links: 
+  Default Color: #2a7993
+  On Hover: #1e657b
+  Visited #2a7993
+
+Buttons: 
+  Shape: Rounded
+  Font Style: Normal
+  Font Size: 14px
+  Font Color: #ffffff
+  Background Color: #337ab7
+  Hover Font Color: #ffffff
+  Hover Background Color: #296292
+
+Tabs & Boxes:
+  Tabs: 
+    Shape: Rounded
+    Default:
+      Text Color: #ffffff
+      Background Color: #28608f
+    Active:
+      Text Color: #ffffff
+      Background Color: #4a6c96
+  Boxes:
+    Shape: Rounded
+    Border Width: 1
+    Border Color: #cccccc
+    Background Color: #ffffff
+    Header Background Color: #f1f1f1
+    Header Font Color: #545454

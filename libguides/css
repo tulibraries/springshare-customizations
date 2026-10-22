@@ -1,0 +1,136 @@
+<style>
+/* begin header styles */
+.logo-container {
+  border-bottom: solid #A50030 2px;
+}
+.logo-container .container {
+    margin-bottom: 14px;
+    margin-top: 14px;
+}
+.logo-container a.header-name {
+    color: #000;
+    font-size: 35px;
+    font-family: Faustina, Times, serif;
+    vertical-align: bottom;
+    text-decoration: none;
+    white-space: nowrap;
+}
+.logo-container a.header-name img {
+    max-width: 90px;
+    max-height: 90px;
+    min-width: 90px;
+    min-height: 90px;
+    vertical-align: bottom;
+    display: inline-block;
+    margin-right: 10px;
+}
+/* end header styles */
+
+#s-lg-tabs-container .nav-tabs > li > a, #s-lg-tabs-container .nav-tabs > li > button, #s-lg-tabs-container .nav-pills > li > a, #s-lg-tabs-container .nav-pills > li > a:hover, #s-lg-tabs-container .nav-pills > .active > a, #s-lg-tabs-container .nav-pills > li > button {
+  font-weight: normal;
+}
+
+.element-invisible {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+
+/* begin footer styles */
+#site-footer {
+  background-color: #F7F7F7;
+  width: 100%;
+  color: #001E61;
+  font-weight: 400;
+}
+#site-footer .row {
+  margin-left: 0;
+  margin-right: 0;
+}
+#site-footer a {
+  color: #001E61;
+}
+#site-footer .tu-links {
+  border-top: solid #333 1px;
+  margin-top: 21px;
+  color: #001E61;
+  padding: 14px 0px 56px 7px;
+  clear: both;
+  text-decoration: none !important;
+}
+#site-footer a:not(.btn,.collapsible-toggle,.accordion-toggle) {
+  text-decoration: none;
+}
+#site-footer .tu-links h2 {
+  margin-bottom: 14px;
+}
+#site-footer .tu-links ul {
+  margin-bottom: 0;
+}
+#site-footer .tu-links ul li {
+  text-decoration: none;
+  color: #001E61;
+  padding-left: 0;
+}
+#site-footer .tu-links ul li a {
+  color: #001E61;
+}
+#site-footer .tu-links .footer-quicklinks a {
+  font-weight: 300;
+}
+#site-footer .tu-links .footer-quicklinks li {
+  margin-top: .5rem;
+}
+#site-footer .tu-links .address {
+  font-weight: 300;
+}
+#site-footer .tu-links .address .street-address {
+  font-weight: 500;
+  line-height: 2rem;
+  letter-spacing: 1.25px;
+}
+#site-footer .footer-cta {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+@media (min-width: 968px) {
+  #site-footer .footer-cta {
+    flex-direction: row;
+    gap: 0;
+  }
+}
+
+a.donate {
+  background-color: #001E61;
+  color: #fff !important;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+a.social-button {
+  background-color: #A41E35;
+  font-weight: 500;
+  font-size: 20px;
+  color: #fff !important;
+}
+a.social-button:hover {
+  text-decoration: none !important;
+}
+a.donate,
+a.social-button {
+  padding: 12px 14px;
+  line-height: 1.2;
+}
+a.donate {
+  height: auto;
+}
+/* end footer styles */
+</style>

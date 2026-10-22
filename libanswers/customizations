@@ -1,0 +1,9 @@
+Buttons:
+  Primary Button:
+    Button State: Default
+    Background Color: #337ab7
+    Border Color: #337ab7
+  Secondary Button:
+    Button State: Default
+    Background Color: #337ab7
+    Border Color: #337ab7

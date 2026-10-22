@@ -1,0 +1,8 @@
+<div class="logo-container">
+   <div class="container">
+      <a href="https://library.temple.edu" class="header-name" id="header-logo">
+        <img src="https://libproxy.temple.edu/public/temple-logo-t-box.png" class="header-logo" alt="">
+         <span>University Libraries</span>
+      </a>
+  </div> 
+</div>
